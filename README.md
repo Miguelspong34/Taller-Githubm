@@ -27,6 +27,36 @@ public class DatosAlumnos{
 
 
    Sintaxis Tipo de dato Identificador(Nombre del variable);
+   
   /*
  }
 }
+
+
+
+
+Package Programacion1_q3
+
+
+
+Public class  DatosAlumnoVc
+ Public static void main(string[] args){
+   // Datos del Alimnos - Valor Constante
+   int numeroCuenta=20911036;
+   String nombreAlumnos="Erick", apellidoAlumno;
+   edad =24;
+   apellidoalumno="Amaya",apellidoAlumno;
+   double Promedio 
+   Promedio=59.4
+
+ System.out.print(***** Boleta De Alumno *****);
+ System.out.print("nombre de Cuenta:" +numeroCuenta+);
+ "\nAlumno:" "+NombreAlumno+" "+apellidoAlumno+"
+ \nEdad:" "+edad+"
+ \nPromedio:" "+Promedio+"
+   }
+
+
+
+ 
+ }
