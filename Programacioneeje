@@ -1,0 +1,27 @@
+Ejecicio32
+
+Package Programaccion 
+Import Java.util.scanner;
+
+Public Class Datos Alumnos
+  Public static void Main(String[] args ){
+   //Datos  de Alumnos - Desde el Teclado
+   // Llamrde clase scanner 
+   Scanner lea =new scanner ( System.in);
+
+   system.out.printin("Ingresar numero de cuenta: ")
+      int CuentaAlumno=lea.next();
+     system.out.printin("Ingresar nombre de Alumno: ")
+        int nombreAlumno=lea.next();
+       system.out.printin("Ingresar apellido del alumno: ")
+         int apellidoAlumno=lea.nexlinet();
+         system.out.printin("Ingresar nota final#1: ")
+           int nota1Alumno=lea.next();
+           system.out.printin("Ingresar nota final#2: ")
+            int nota2Alumno=lea.next();
+
+
+
+
+  
+  }
